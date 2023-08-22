@@ -1,0 +1,201 @@
+.nof_AcceptanceOrangeBanners1-Default{
+font-family:Lato;
+font-size:24pt;
+color:#333
+}
+
+div.ui-accordion.selected a.head.selected    {
+background-image:url( "./AccordionTabOpen.png" )!important;
+color:#3d3c40!important;
+border:none!important
+}
+
+.ui-accordion a.head {
+background-image:url( "./AccordionTabClosed.png" )!important;
+background-color:transparent!important;
+border:none!important;
+font-size:16px!important;
+font-weight:normal!important;
+color:#3d3c40!important;
+text-indent:30px!important;
+height:30px!important;
+line-height:30px!important
+}
+
+.ui-accordion .ui-accordion-panel a {
+display:inline!important;
+border:none!important
+}
+
+.ui-accordion{
+border:none!important
+}
+
+.ui-tabs-panel{
+border-top:1px solid #cf6f19!important;
+font-family:inherit!important;
+padding:5px!important
+}
+
+.ui-tabs-nav a {
+background-image:url( "./tab_top.png" )!important;
+color:#fafafa!important;
+font-size:16px!important;
+font-weight:normal!important;
+line-height:22px!important
+}
+
+.ui-tabs-nav .ui-tabs-selected a {
+font-family:inherit!important;
+color:#fafafa!important
+}
+
+.ui-tabs-nav{
+font-family:inherit!important
+}
+
+.ui-tabs-nav a span    {
+background-image:url( "./tab_top.png" )!important;
+font-family:inherit!important;
+max-height:50px;
+height:25px!important
+}
+
+.ui-tabs-nav a:hover span {
+font-family:inherit!important;
+background-position:0 -50px!important
+}
+
+.ui-tabs-nav a:hover {
+font-family:inherit!important;
+background-position:100% -150px!important;
+color:#fafafa!important
+}
+
+div.TogglePaneFancyHeader {
+font-family:inherit!important;
+font-size:16px!important;
+font-weight:normal!important;
+line-height:30px;
+height:30px!important;
+text-indent:30px;
+cursor:pointer;
+border:none!important;
+background-color:transparent!important;
+background-image:url( "./TogglePaneOpen.png" )!important;
+background-position:0 0!important;
+color:#3d3c40!important;
+border-width:0!important;
+padding:0!important
+}
+
+div.TogglePaneFancyHeaderClosed {
+background-color:transparent!important;
+background-image:url( "./TogglePaneClosed.png" )!important;
+background-position:0 0!important;
+color:#3d3c40!important
+}
+
+BODY {
+font-family:"Lato Light",    sans-serif;
+font-size:16px;
+background-repeat:repeat-x;
+background-image:url( "./background.png" )
+}
+
+P {
+line-height:1.75em
+}
+
+A {
+color:#cf6f19
+}
+
+A:visited {
+color:#9c5012
+}
+
+.nof_AcceptanceOrangeNavbar4-Regular{
+font-family:Lato;
+font-size:16px;
+color:#fff
+}
+
+.nof_AcceptanceOrangeNavbar5-Rollover{
+font-family:Lato;
+font-size:16px;
+color:#fff
+}
+
+.nof_AcceptanceOrangeNavbar6-Highlighted{
+font-family:Lato;
+font-size:16px;
+color:#fff
+}
+
+.nof_AcceptanceOrangeNavbar7-HighlightedRollover{
+font-family:Lato;
+font-size:16px;
+color:#fff
+}
+
+.nof_AcceptanceOrangeNavbar9-Regular{
+font-family:Lato;
+font-size:14px;
+color:#fff
+}
+
+.nof_AcceptanceOrangeNavbar10-Rollover{
+font-family:Lato;
+font-size:14px;
+color:#fff
+}
+
+.nof_AcceptanceOrangeNavbar11-Highlighted{
+font-family:Lato;
+font-size:14px;
+color:#fff
+}
+
+.nof_AcceptanceOrangeNavbar12-HighlightedRollover{
+font-family:Lato;
+font-size:14px;
+color:#fff
+}
+
+H1{
+font-family:Lato,    sans-serif;
+font-weight:400
+}
+
+H2{
+font-family:Lato sans-serif ;
+font-weight:400
+}
+
+H3{
+font-family:Lato sans-serif ;
+font-weight:400
+}
+
+H4{
+font-family:Lato sans-serif ;
+font-weight:400
+}
+
+H5{
+font-family:Lato sans-serif ;
+font-weight:400
+}
+
+H6 {
+font-family:Lato sans-serif ;
+font-weight:400
+}
+
+A:hover{
+color:#e87b1c
+}
+A:active {
+color:#e87b1c
+}
